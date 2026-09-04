@@ -44,7 +44,7 @@ I am a hybrid professional working at the intersection of **code, data, and stra
 
 | Project | Role | Stack |
 | :--- | :--- | :--- |
-| [**Project Name 1**](link-to-repo) | *Full Stack Dev* | Python, Flask, React |
+| [**Project Agent Bot**](link-to-repo) | *Full Stack Dev* | Python, Flask, React |
 | [**Sales Dashboard**](link-to-repo) | *Data Analyst* | SQL, ETL, PowerBI |
 | [**Task Management API**](link-to-repo) | *Tech Lead* | Node.js, Docker, Scrum |
 
