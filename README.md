@@ -73,8 +73,8 @@ All data in these projects is fictional or open. Each repository has its own roa
 
 <div align="center">
 <a href="https://github.com/vinera-dev">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinera-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinera-dev&layout=compact&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinera-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600&rank_icon=github"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinera-dev&layout=compact&theme=dracula&langs_count=6&hide_border=true&cache_seconds=144000&hide=jupyter%20notebook"/>
 </a>
 </div>
 
