@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I'm Vini!
 
-**Software Engineer | Python, AWS, Docker, SQL | Generative AI / LLM Systems | Ex-Technical Project Manager**
+**Software Engineer | Python, AWS, Docker, SQL | Generative AI / LLM Systems | Technical Project Manager**
 
 15+ years delivering backend systems, cloud automation and Generative AI integrations, from architecture to production. I work at the intersection of **code, data and delivery**: I build the systems and I know how to drive them to a release. Based in São Paulo, Brazil, and open to relocation within the EU.
 
